@@ -5,6 +5,3 @@ Click above on REPOSITORIES to see more!
 
 ☕️ + 👨🏽‍💻= </>
 
-
- <!-- HOLA PROBANDO CAMBIO CON SEBA -->
-
