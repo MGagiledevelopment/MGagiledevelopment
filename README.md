@@ -1,5 +1,5 @@
 # Hi there, welcome to my GitHub 😄👋🏼
-My name is Matías González and I am a developer based in Argentina, Buenos Aires. I share with you on this site the work I am doing. Click REPOSITORIES to see more!
+My name is Matías González and I am a developer based in Argentina, Buenos Aires. I work with agile methodologies and tools. I share with you on this site the work I am doing. Click REPOSITORIES to see more!
 ☕️ + 👨🏽‍💻= </>
 
 # Languages and tools
@@ -11,6 +11,10 @@ My name is Matías González and I am a developer based in Argentina, Buenos Air
 )
 
 ![preview](https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)  ![preview](https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white) 
+
+![preview](https://img.shields.io/badge/Hyper-000000?style=for-the-badge&logo=hyper&logoColor=white
+) ![preview](https://img.shields.io/badge/windows%20terminal-4D4D4D?style=for-the-badge&logo=windows%20terminal&logoColor=white
+)
 
 ![preview](https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white) 
 
