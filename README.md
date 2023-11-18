@@ -3,4 +3,5 @@ My name is Matías González and I am a developer based in Argentina, Buenos Air
 ☕️ + 👨🏽‍💻= </>
 
 # Languages and tools
-	https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB
+<img src="{https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB}" />	
+ 
