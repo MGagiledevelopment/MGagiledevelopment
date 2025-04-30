@@ -1,4 +1,7 @@
-# Hi there, I'm Matías González — a full stack developer based in Buenos Aires, Argentina. 😄👋🏼
+# Hi there, welcome to my GitHub 😄👋🏼
+
+I'm Matías González — a full stack developer based in Buenos Aires, Argentina. 
+
 I build complete and modern web applications, combining clean UI with solid functionality. I work with agile methodologies and development tools to deliver scalable and maintainable solutions.
 On this profile, you’ll find a collection of my ongoing and finished projects.
 Click REPOSITORIES to explore more!
