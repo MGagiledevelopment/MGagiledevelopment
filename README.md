@@ -1,4 +1,4 @@
-# Hi there, welcome to my GitHub 😄👋🏼
+# Hi there, welcome to my GitHub 👋🏼
 
 I'm Matías González — a full stack developer based in Buenos Aires, Argentina. 
 
