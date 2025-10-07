@@ -1,11 +1,9 @@
 # Hi there, welcome to my GitHub!
 
-I'm MatIas González — a full stack developer based in Buenos Aires, Argentina. 
+I’m Matías González, a Semi-Senior Systems Analyst with 4 years of experience in IT, combining functional and technical analysis, software development, and support for critical systems.
 
-I build complete and modern web applications, combining clean UI with solid functionality. I work with agile methodologies and development tools to deliver scalable and maintainable solutions.
-On this profile, you’ll find a collection of my ongoing and finished projects.
-Click REPOSITORIES to explore more!
-
+I have hands-on experience with SQL Server, Postman, AppDynamics, Kibana, and Control-M, applying agile methodologies (Scrum) to ensure quality and continuous improvement.
+Beyond my analyst role, I enjoy creating and optimizing modern web experiences, building clean, responsive, and scalable websites using React, Node.js, and Webflow.
 
 # Languages and tools
 
